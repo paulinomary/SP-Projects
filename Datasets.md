@@ -18,6 +18,9 @@ link: <https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datas
 - <https://www.kaggle.com/datasets/bkcoban/customer-transactions/>
 - <https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset>
 - <https://www.kaggle.com/datasets/mrmorj/data-police-shootings/>
+- <https://www.kaggle.com/datasets/andrewmvd/police-deadly-force-usage-us?select=fatal-police-shootings-data.csv/>
+- <https://www.kaggle.com/datasets/joebeachcapital/homicides/>
+
 
 <i> Data.gov </i>
 
