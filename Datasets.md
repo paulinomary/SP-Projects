@@ -4,13 +4,13 @@ link: <https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datas
 
 <h3> <strong> Sites </strong> </h3>
 
-<italic> Google Dataset Search </italic>
+<i> Google Dataset Search </i>
 
 - <https://data.boston.gov/dataset/employee-earnings-report/>
 - <https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/>
 - <https://www.gov.uk/government/statistical-data-sets/reported-road-accidents-vehicles-and-casualties-tables-for-great-britain/>
 
-<italic> Kaggle </italic>
+<i> Kaggle </i>
 
 - <https://www.kaggle.com/datasets/mylesoneill/game-of-thrones/>
 - <https://www.kaggle.com/datasets/hugodarwood/celebrity-deaths/>
@@ -19,14 +19,14 @@ link: <https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datas
 - <https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset>
 - <https://www.kaggle.com/datasets/mrmorj/data-police-shootings/>
 
-<italic> Data.gov </italic>
+<i> Data.gov </i>
 
 - <https://catalog.data.gov/dataset/real-estate-sales-2001-2018/> (link Dataset: <https://data.ct.gov/Housing-and-Development/Real-Estate-Sales-2001-2020-GL/5mzw-sjtu/>)
 
-<italic> Data Hub </italic>b
+<i> Data Hub </i>
 
 - <https://datahub.io/core/nasdaq-listings/>
 
-<italic> Dataset Ano Passado </italic>
+<i> Dataset Ano Passado </i>
 
 - Loan Dataset (?)
