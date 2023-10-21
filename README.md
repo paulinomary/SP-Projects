@@ -1,4 +1,4 @@
-<h1> <bf> <centre> Segurança e Privacidade </centre> </bf> </h1>
+<h1> <strong> <centre> Segurança e Privacidade </centre> </strong> </h1>
 
 
 Trabalho Realizado por:
