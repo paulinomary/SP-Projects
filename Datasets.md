@@ -25,7 +25,7 @@ link: <https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datas
 
 <italic> Data Hub </italic>b
 
-- https://datahub.io/core/nasdaq-listings
+- <https://datahub.io/core/nasdaq-listings/>
 
 <italic> Dataset Ano Passado </italic>
 
