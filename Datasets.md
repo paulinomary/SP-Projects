@@ -33,3 +33,8 @@ link: <https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datas
 <i> Dataset Ano Passado </i>
 
 - Loan Dataset (?)
+
+<i> Choices </i>
+
+- Billionaires
+- Boston Earnings
