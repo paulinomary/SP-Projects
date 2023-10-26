@@ -37,4 +37,3 @@ link: <https://careerfoundry.com/en/blog/data-analytics/where-to-find-free-datas
 <i> Choices </i>
 
 - Billionaires
-- Boston Earnings
